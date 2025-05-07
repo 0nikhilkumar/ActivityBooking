@@ -10,6 +10,19 @@
 7. [Deployment](#7-deployment)
 8. [Troubleshooting](#8-troubleshooting)
 
+
+### Api Routes - 
+Base Url - https://activitybooking-4jsh.onrender.com/api/v1 / localhost:3000/api/v1
+
+User Register - /register
+User Login - /login
+
+Activity Get - /get-all-activities
+Activity Create - /create-activity
+
+Booking Get - /get-all-my-bookings
+Booking Create - /create-booking
+
 ---
 
 ## 1. Project Setup
